@@ -1,0 +1,32 @@
+.navbar{
+    height: 100px;
+    background-color:antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+  list-style-type: none;
+  
+}
+li{
+    margin: 30px;
+text-decoration: none;
+}
+
+
+.btnl{
+    background-color: blue;
+    color: aliceblue;
+    height: 40px;
+    border-radius: 40px;
+
+}
+.a1{
+    height: 70px;
+}
+.cls1{
+    height: 100vh;
+    width: 100%;
+}
