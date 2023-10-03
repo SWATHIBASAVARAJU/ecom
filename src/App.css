@@ -5,15 +5,15 @@
     flex-direction: row;
     justify-content: space-between;
 }
-ul{
+ .m1{
     display: flex;
   list-style-type: none;
   
 }
-li{
+.m2{
     margin: 30px;
 text-decoration: none;
-}
+} 
 
 
 .btnl{
@@ -30,3 +30,100 @@ text-decoration: none;
     height: 100vh;
     width: 100%;
 }
+.home{
+    height: 100vh;
+    width: 100%;
+}
+.img{
+    background-image: url('C:\Users\YSK-IT-1008\Downloads\background-e.webp');
+    height: 100vh;
+    width: 1100%;
+}
+.head{
+    margin-left: 300px;
+    padding-top: 200px;
+    font-size: 70px;
+    color: aliceblue;
+}
+.head2{
+    margin-left: 500px;
+    color: aliceblue;
+}
+.rental{
+    height: 100vh;
+    width: 100%;
+}
+.img2{
+    background-image: url('C:\Users\YSK-IT-1008\Downloads\wprentals.webp');
+    height: 100vh;
+    width: 100%;
+}
+.wp{
+    padding-left: 100px;
+    padding-top: 100px;
+    color: aliceblue;
+    font-size: 40px;
+}
+.img5{
+    padding-left: 100px;
+    color: aliceblue;
+}
+.cards{
+    height: 100vh;
+    width: 100%;
+}
+.fea{
+    height: 100vh;
+    width: 100%;
+}
+.img3{
+    background-image: url('C:\Users\YSK-IT-1008\Downloads\blog_header2.jpeg');
+    height: 100vh;
+    width: 100%;
+}
+.header{
+    margin-left: 400px;
+    padding-top: 200px;
+    color: aliceblue;
+    font-size: 60px;
+}
+.para{
+    margin-left: 400px;
+    color: aliceblue;
+}
+.cardsl{
+width: 100%;
+height: 100vh;
+}
+
+.img11{
+width: 100%;
+
+    flex-wrap: wrap;
+}
+.mg{
+    margin-top: 30px;
+}
+.page3{
+    padding-top: 20px;
+}
+.headdiv{
+    display: flex;
+    flex-direction: row;
+}
+.infor{
+    text-align: center;
+}
+.buttoncls{
+    display: flex;
+    margin-right: 40px;
+    flex-wrap: wrap;
+}
+.btn11{
+    padding-left: 100px;
+}
+
+
+
+
+

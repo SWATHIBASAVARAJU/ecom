@@ -7,47 +7,42 @@ const Nav=()=>{
         
     
         
-        <ul>
-        <img className="a1" src="https://mainwprentals.b-cdn.net/wp-content/uploads/2022/09/main_transparent1_2x.png"/>
+        <ul className="m1">
+       <Link to='/wprentals'> <img className="a1" src="https://mainwprentals.b-cdn.net/wp-content/uploads/2022/09/main_transparent1_2x.png"/></Link>
         
            
-            <li >
+            <li className="m2">
                 <Link to='/home'>Home</Link>
             </li>
-            <li>
+            <li className="m2">
                 <Link to='/demos'>Demos<select><option>new</option></select></Link>
             </li>
-            <li>
+            <li className="m2" >
                 <Link to='/properties'>Properties</Link>
             </li>
-            <li>
+            <li className="m2">
                 <Link to='/owners'>Owners</Link>
             </li>
-            <li>
+            <li className="m2">
                 <Link to='/features'>Features</Link>
             </li>
-            <li>
+            <li className="m2">
                 <Link to='/pages'>Pages</Link>
             </li>
-            <li>
+            <li className="m2">
                 <Link to='/login'>Login</Link>
             </li>
-            <li>
+            <li className="m2">
                 <Link to='/signup'>Signup</Link>
             </li>
-            <li>
+            <li className="m2">
                 <Link to='/submitproperty'><button className="btnl">Submitproperty</button></Link>
             </li>
             
         </ul>
         
     </nav>
-    <div className="cls1">
-        <h4>Featured listings to rent</h4>
-        <p>The most trendy accommodations available​</p>
-
-    </div>
-   
+    
     </div>
     
     )
