@@ -8,7 +8,7 @@ const Nav=()=>{
     
         
         <ul className="m1">
-       <Link to='/wprentals'> <img className="a1" src="https://mainwprentals.b-cdn.net/wp-content/uploads/2022/09/main_transparent1_2x.png"/></Link>
+       <Link to='/wprentals'> <img className="a1" src="https://mainwprentals.b-cdn.net/wp-content/uploads/2022/09/main_transparent1_2x.png" alt="7"/></Link>
         
            
             <li className="m2">

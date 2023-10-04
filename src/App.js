@@ -2,8 +2,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './App.css';
 
-import Slider from 'react-slick';
-
 import {Routes,Route} from 'react-router-dom'
 import Wprentals from './components/Wprentals';
 import Home from './components/Home';
